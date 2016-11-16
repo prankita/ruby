@@ -1,0 +1,2 @@
+# ruby
+about ruby program
